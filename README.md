@@ -1,4 +1,4 @@
-## Simple Web Crawler to crawl immigration website to seek earliest available free times
+## Simple Web Crawler to crawl immigration website to seek earliest available apointments
 
 It's a simple web crawler which I wrote because the immigration was booked for the next three months and I wanted to get notified if someone cancels any appointment and there is free time available.
 
